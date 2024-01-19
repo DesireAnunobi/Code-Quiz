@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+  }
+  
+  .quiz-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .hide {
+    display: none;
+  }
+  
+  #options-container button {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
