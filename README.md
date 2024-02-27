@@ -44,13 +44,14 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-![Screenshot](/)
+![Screenshot](/assets/images/Capture1.PNG)
    
 ## Credits
 https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12374120#overview 
 https://www.w3schools.com/js/js_quiz.asp
 https://stackoverflow.com/questions/47050799/quiz-code-is-not-working
 https://stackoverflow.com/questions/58982788/required-input-in-a-js-quiz
+https://www.w3schools.com/js/js_quiz.asp
 
 ## License
 

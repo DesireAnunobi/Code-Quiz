@@ -38,6 +38,11 @@ document.addEventListener('DOMContentLoaded', function () {
         options: ['Creative Style Sheets', 'Cascading Style Sheets', 'Computer Style Sheets '],
         correctIndex: 1
       },
+      {
+        question: 'Inside which HTML element do we put the JavaScript?',
+        options: ['<tag>', '<script>', '<a> '],
+        correctIndex: 1
+      },
       
     ];
   
